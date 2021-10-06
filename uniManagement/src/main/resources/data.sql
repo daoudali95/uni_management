@@ -1,0 +1,1 @@
+insert into User (id, user_Name, email, password) values(1, 'daoud', 'daoudali35@gmail.com', '123');
